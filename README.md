@@ -4,7 +4,7 @@ Keep any website session alive by refreshing the page automatically in an invisi
 
 ## Install
 
-[**Chrome** extension]()
+[**Chrome** extension](https://chromewebstore.google.com/detail/bikmnalponomoboepbhmonicabifhhki/)
 
 ## Contribution
 
